@@ -105,15 +105,7 @@ print(10>20)
 a=10
 b=20
 c=b-a
-print(ac)
+print(ac)'''
 
-#arithmetic operation
-a=int(input("age of father: "))
-b=int(input("age of sun: "))
-print("addition of both father and sun age is : ",(a+b))
 
-print("div :" ,(a/b))
-print("sub :" ,(a-b))
-print("mul :" ,(a*b))
-print("mod :" ,(a%b))'''
 
