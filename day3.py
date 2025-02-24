@@ -1,4 +1,4 @@
-'''#arithmetic operation
+#arithmetic operation
 a=int(input("age of father: "))
 b=int(input("age of sun: "))
 print("addition of both father and sun age is : ",(a+b))
@@ -113,8 +113,6 @@ elif (b>=a and a>=c):
     print("Company B have highest sales")
 else:
     print("Company C have highest sales")
-                         
-'''
 
 
 ###task 1
