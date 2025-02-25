@@ -1,8 +1,8 @@
-'''a="srishti"
+a="srishti"
 print(a)
 
-"""x="welcome to "python" world"
-print(x)"""
+x="welcome to "python" world"
+print(x)
 
 s="hello 'srishti'"
 print(s)

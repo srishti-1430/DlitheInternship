@@ -1,4 +1,4 @@
-'''#list
+#list
 list=["apple","orenge"]
 print(list)
 
@@ -126,7 +126,7 @@ print(s)
 h=["sleeping","singing","talking","art"]
 h.pop(0)
 h.append("python")
-print(h)'''
+print(h)
 
 h=["sleeping","singing","talking","art"]
 h[0]="python"

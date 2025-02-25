@@ -1,4 +1,4 @@
-'''age=20
+age=20
 if(age>18):
     print("eligible for voting")
 else:
@@ -67,6 +67,6 @@ print(y)
 x=20
 def myfunction():
     print(x)
-myfunction()'''
+myfunction()
 
 

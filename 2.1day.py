@@ -1,4 +1,4 @@
-'''#sum of two numbers
+#sum of two numbers
 a=int(input("enter a number: "))
 b=int(input("enter another number: "))
 print(a+b)
@@ -119,7 +119,7 @@ y=list(v)
 y.pop(1)
 v=tuple(y)
 print(v)
-'''
+
 cities=("udupi","manglore","banglore")
 a=list(cities)
 a[2]="hebri"
